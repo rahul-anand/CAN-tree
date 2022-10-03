@@ -12,4 +12,3 @@ To run
 1. Run the simulator.py
 2. To launch each node, run node.py node_ID in separate terminals
 3. Launch gateway.py to  start the key-exchange process
-4.  

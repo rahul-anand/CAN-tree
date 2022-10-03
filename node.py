@@ -162,7 +162,7 @@ def speed():
                 n = nodes_pairing[2]
                 if node.status == 0:
                     node.status = 1
-                    node.acceptable = n
+                    node.acceptable = int(n)
                     nums = np.random.choice([0, 1], size=max_len).transpose()
                     node.fa = nums
                     print(nums)
@@ -217,7 +217,7 @@ def speed():
                             node.leader = secondary[0]
 
                 node.status = 1
-                node.acceptable = nodes_pairing[2]
+                node.acceptable = int(nodes_pairing[2])
                 if node_id in primary:
                     node.primary = True
                     stime = 0.1

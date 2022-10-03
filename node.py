@@ -1,5 +1,4 @@
 import sys
-from gc import is_finalized
 
 from dependencies import *
 
@@ -28,7 +27,7 @@ def send_message(msg):
     return can_mesg_tx(can_id, msg)
 
 
-max_len = 200
+max_len = 50
 
 
 class ECU:

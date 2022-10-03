@@ -1,10 +1,4 @@
-## Translated to a reacl single ECU, no shared state
-
-
-# phases: Arbitration, Data Phase
-
 import sys
-from gc import is_finalized
 
 from dependencies import *
 
@@ -46,7 +40,7 @@ def speed():
 node_id = -1
 
 
-length = 30
+length = 10
 
 node_num = 8
 nodes = [i for i in range(node_num)]

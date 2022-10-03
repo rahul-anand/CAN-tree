@@ -1,0 +1,565 @@
+0 ['node.py', '0']
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804972 2 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804973 3 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804974 4 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804975 5 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804976 6 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804977 7 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804978 8 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804979 9 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804980 0 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804981 1 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804982 2 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804983 3 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804984 4 None
+0::Nothing
+ 0
+CANS [0]
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804985 5 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804986 6 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804987 7 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804988 8 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804989 9 None
+ECU 0:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804990 0 None
+-1::pair_0,1,30
+ 0
+CANS [-1]
+pairing happening
+[0, 1, 30]
+My turn)
+[0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804991 1 None
+-1::pair_0,1,30
+ 0
+CANS [-1]
+pairing happening
+[0, 1, 30]
+My turn)
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804992 2 None
+-1::pair_0,1,30
+ 0
+CANS [-1]
+pairing happening
+[0, 1, 30]
+My turn)
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804993 3 None
+-1::pair_0,1,30
+ 0
+CANS [-1]
+pairing happening
+[0, 1, 30]
+My turn)
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804994 4 None
+-1::pair_0,1,30
+ 0
+CANS [-1]
+pairing happening
+[0, 1, 30]
+My turn)
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804995 5 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804996 6 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804997 7 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804998 8 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664804999 9 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 1
+Sender: True
+Leader: -1
+y: []
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805000 0 None
+0,1::0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+ 0
+CANS [0, 1]
+I am here
+Cur_message 
+[1 0 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0]
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805001 1 None
+0,1::0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+ 0
+CANS [0, 1]
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1] [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+ignore
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805002 2 None
+0,1::0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+ 0
+CANS [0, 1]
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1] [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+ignore
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805003 3 None
+0,1::0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+ 0
+CANS [0, 1]
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1] [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+ignore
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805004 4 None
+0,1::0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1
+ 0
+CANS [0, 1]
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1] [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+ignore
+[0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1] [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+ignore
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805005 5 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805006 6 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805007 7 None
+ECU 0:
+Primary: True
+Finished: False
+Secret: []
+MyPair: [0, 1]
+Status: 2
+Sender: True
+Leader: -1
+y: [0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]
+z: []
+fa: [0 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1]
+
+1664805008 8 None

@@ -1,0 +1,14 @@
+7 ['node.py', '7']
+ECU 7:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804978 8 None

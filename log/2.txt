@@ -1,0 +1,17 @@
+2 ['node.py', '2']
+ECU 2:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804974 4 None
+0::Nothing
+ 2
+CANS [0]

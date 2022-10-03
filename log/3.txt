@@ -1,0 +1,14 @@
+3 ['node.py', '3']
+ECU 3:
+Primary: -1
+Finished: False
+Secret: []
+MyPair: []
+Status: 0
+Sender: False
+Leader: -1
+y: []
+z: []
+fa: 0
+
+1664804975 5 None

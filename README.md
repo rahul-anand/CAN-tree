@@ -12,6 +12,8 @@
 
 7. Socket is assumed to be of size 1024 and need to be modified to support large arrays.
 
+7. Demo video demonstrating the key-exchange protocol for 8 nodes.
+
 Libraries used: threading, time, socket 
 To run
 
